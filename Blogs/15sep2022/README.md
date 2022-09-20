@@ -20,7 +20,7 @@ some definations some definations some definations some definations some definat
 
 image title
 
-![alt text](./images/test.jpg "ome descrption about image 1") 
+![alt text](./imges/test.jpg "ome descrption about image 1") 
 
 RStudio is an integrated development environment (IDE) for R. It includes a console, syntax-highlighting editor that supports direct code execution, as well as tools for plotting, history, debugging and workspace management.
 
@@ -28,7 +28,7 @@ RStudio is available in open source and commercial editions and runs on the desk
 
 image title 2
 
-![alt text](./images/test.jpg "ome descrption about image 2") 
+![alt text](./imges/test.jpg "ome descrption about image 2") 
 
 RStudio is an integrated development environment (IDE) for R. It includes a console, syntax-highlighting editor that supports direct code execution, as well as tools for plotting, history, debugging and workspace management.
 
