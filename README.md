@@ -7,4 +7,4 @@ Activities carry out  by drone club in sanjivani college of engnerring by club s
 
 ## Electronics
 
-[Electronics](../Electronics-team/README.md)
+[Electronics](../electronics-team/README.md)
