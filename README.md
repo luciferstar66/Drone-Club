@@ -1,2 +1,2 @@
-# Drone-Club
-Activities carry out  by drone club in sanjivani college of engnerring by club students 
+# Electronic Team
+blogs written by Electronis team will be posted here
