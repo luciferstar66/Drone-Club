@@ -16,9 +16,6 @@ Activities carry out  by drone club in sanjivani college of engnerring by club s
     This blog will guide through after getting data how to plot python graph the requirds files will be in that folder
 
 
-## Electronics  
-Activities carry out  by drone club in sanjivani college of engnerring by club students 
-
 ## Electronics teams blog post  
 
 + [22 sept 2022](./Electronics-Blogs/22sep2022)
